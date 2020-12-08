@@ -1,0 +1,12 @@
+// это PUSH
+
+students = ["Darkhan", "Max", "Kolya"]
+students.append("Viktor")
+print(students)
+
+
+// это POP
+
+students = ["Darkhan", "Max", "Kolya", "Viktor"]
+students.pop(3)
+print(students)
